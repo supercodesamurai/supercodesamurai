@@ -98,9 +98,9 @@ Nagoya University, 2014–2018
 Got a project or want to collaborate? Feel free to reach out:
 
 📧 kosukekobayashi.dev@gmail.com  
-🌐 [Portfolio Website](https://kosuke-kobayashi.vercel.app)  
+🌐 [Portfolio Website](https://kosukekobayashi.vercel.app)  
 🔗 [LinkedIn](https://www.linkedin.com/in/kobayashi-kosuke-659865358)  
-💬 [Telegram](https://t.me/kawaiiiscute)
+💬 [Telegram](https://t.me/kodewithme)
 
 ---
 
